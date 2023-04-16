@@ -31,9 +31,9 @@ There are two SAM templates available - one provides an open API, the other uses
 
 ```
 update aws keys in env
-AWS_SECRET_ACCESS_KEY=jwKztskj5A7uP2BOuneki6L28+6f9CebY717XWGH
+AWS_SECRET_ACCESS_KEY=
 AWS_REGION=ap-south-1
-AWS_ACCESS_KEY_ID=AKIAWZ4G2Z3GF46FNMIN
+AWS_ACCESS_KEY_ID=
 
 
 cd .. 
