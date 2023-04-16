@@ -30,6 +30,12 @@ Important: this application uses various AWS services and there are costs associ
 There are two SAM templates available - one provides an open API, the other uses an authorizer. From the command line, deploy the chosen SAM template:
 
 ```
+update aws keys in env
+AWS_SECRET_ACCESS_KEY=jwKztskj5A7uP2BOuneki6L28+6f9CebY717XWGH
+AWS_REGION=ap-south-1
+AWS_ACCESS_KEY_ID=AKIAWZ4G2Z3GF46FNMIN
+
+
 cd .. 
 sam deploy --guided
 ```
